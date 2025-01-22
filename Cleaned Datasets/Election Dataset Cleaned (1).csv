@@ -1,0 +1,25 @@
+Year,Voting-age Population (VAP),Turnout,VAP Turnout,President,President's Party,Mandate Years,Democratic,Libertarian,Other,Republican
+1932,75768000,39816522,52.6,Franklin D. Roosevelt     ,Democratic, 1933/1945       ,,,,
+1936,80174000,45646817,56.9,Franklin D. Roosevelt     ,Democratic, 1933/1945       ,,,,
+1940,84728000,49815312,58.8,Franklin D. Roosevelt     ,Democratic, 1933/1945       ,,,,
+1944,85654000,48025684,56.1,Franklin D. Roosevelt     ,Democratic, 1933/1945       ,,,,
+1948,95573000,48833680,51.1,Harry S. Truman           ,Democratic, 1945/1953       ,,,,
+1952,99929000,61551919,61.6,Dwight D. Eisenhower      ,Republican, 1953/1961       ,,,,
+1956,104515000,62027040,59.3,Dwight D. Eisenhower      ,Republican, 1953/1961       ,,,,
+1960,109672000,68836385,62.8,John F. Kennedy           ,Democratic, 1961/1963       ,,,,
+1964,114090000,70097935,61.4,Lyndon B. Johnson         ,Democratic, 1963/1969       ,,,,
+1968,120285000,73026831,60.7,Richard Nixon             ,Republican, 1969/1974       ,,,,
+1972,140777000,77625152,55.1,Richard Nixon             ,Republican, 1969/1974       ,,,,
+1976,152308000,81603346,53.6,Jimmy Carter              ,Democratic, 1977/1981       ,40680446.0,95626.0,1954379.0,38870893.0
+1980,163945000,86496851,52.8,Ronald Reagan             ,Republican, 1981/1989       ,35480948.0,867401.0,6505863.0,43642639.0
+1984,173995000,92654861,53.3,Ronald Reagan             ,Republican, 1981/1989       ,37449813.0,227204.0,811015.0,54166829.0
+1988,181956000,91586725,50.3,George H. W. Bush         ,Republican, 1989/1993       ,41716679.0,409708.0,817798.0,48642640.0
+1992,189493000,104600366,55.2,Bill Clinton              ,Democratic, 1993/2001       ,44856747.0,280848.0,20663272.0,38798913.0
+1996,196789000,96389818,49.0,Bill Clinton              ,Democratic, 1993/2001       ,47295351.0,465351.0,9625419.0,39003697.0
+2000,209130000,105594024,50.5,George W. Bush            ,Republican, 2001/2009       ,50830580.0,380405.0,4071625.0,50311372.0
+2004,219508000,122349480,55.7,George W. Bush            ,Republican, 2001/2009       ,58894561.0,369308.0,1212870.0,61872711.0
+2008,229989000,131406895,57.1,Barack Obama              ,Democratic, 2009/2017       ,69338846.0,510456.0,1956116.0,59613835.0
+2012,240177000,129139997,53.8,Barack Obama              ,Democratic, 2009/2017       ,65752017.0,1216400.0,1501463.0,60670117.0
+2016,249422000,136787187,54.8,Donald Trump              ,Republican, 2017/2021       ,65677288.0,4125170.0,4292059.0,62692670.0
+2020,252274000,158427986,62.8,Joe Biden                 ,Democratic, 2021/Present    ,81268908.0,1797355.0,1246094.0,74216146.0
+2024,264798961,156252813,59.0,Donald Trump,Republican,TBD,,,,
